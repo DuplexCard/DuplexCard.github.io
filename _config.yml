@@ -21,12 +21,12 @@ timezone:
 # jekyll-seo-tag settings › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
 # ↓ --------------------------
 
-title: DuplexCard                          # the main title
+title: Abdullah Sayed                          # the main title
 
 tagline: AI Student   # it will display as the sub-title
 
 description: >-                        # used by seo meta and the atom feed
-  A minimal, responsive, and powerful Jekyll theme for presenting professional writing.
+  A minimal, responsive, and powerful Jekyll site for my blog to share my learning experiences
 
 # fill in the protocol & hostname for your site, e.g., 'https://username.github.io'
 url: 'http://www.duplexcard.dev'
@@ -34,8 +34,6 @@ url: 'http://www.duplexcard.dev'
 github:
   username: DuplexCard             # change to your github username
 
-twitter:
-  username: twitter_username            # change to your twitter username
 
 social:
   # Change to your full name.
@@ -45,10 +43,10 @@ social:
   links:
     # The first element serves as the copyright owner's link
     # https://twitter.com/username      # change to your twitter homepage
-    - https://github.com/username       # change to your github homepage
+    - https://github.com/DuplexCard       # change to your github homepage
     # Uncomment below to add more social links
     # - https://www.facebook.com/username
-    - https://www.linkedin.com/in/DuplexCard
+   
 
 google_site_verification:               # fill in to your verification string
 
