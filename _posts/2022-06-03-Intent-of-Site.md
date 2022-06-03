@@ -1,8 +1,10 @@
 ---
 title: Site Overview
-date: 2022-06-03 8:33:00 +0000
+date: 2022-06-02 8:33:00 +0000
 categories: [Blogs]
 tags: [plans]
+pin: true
+
 ---
 >This site is new so there might not be as much content as it will contain in the future.
 {: .prompt-info }
